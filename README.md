@@ -145,5 +145,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@CPBridge](https://github.com/CPBridge/)
 * [@sarthakpati](https://github.com/sarthakpati/)
 
