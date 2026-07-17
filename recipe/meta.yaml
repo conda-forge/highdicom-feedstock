@@ -1,5 +1,5 @@
 {% set name = "highdicom" %}
-{% set version = "0.27.0" %}
+{% set version = "0.28.0" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/highdicom-{{ version }}.tar.gz
-  sha256: 4999b62a4fc1e58ae1d25eb12058dae3b83d816a6214c00e342356a3ad0774f2
+  sha256: 9b8e5b6b36703eee3ffc7c396a5713fb14d3059e8bc50ef135091963db625cc1
 
 build:
   noarch: python
